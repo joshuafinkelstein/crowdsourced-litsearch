@@ -3,3 +3,5 @@ Offers an alternative approach for finding articles by rank listing common refer
 
 Install Required Dependencies
 `pip install habanero`
+
+This will allow access to the Crossref API. 
